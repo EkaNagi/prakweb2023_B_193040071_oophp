@@ -2,9 +2,8 @@
 /*
 Tresna Eka Widiana
 193040071
-https://github.com/EkaNagi/prakweb2021_oophp_193040071.git
-Pertemuan 2 - 13 Desember 2021
-Video Class & Object
+https://github.com/EkaNagi/prakweb2023_B_193040071_oophp
+Pertemuan 5 - 12 Oktober 2023
 */
 ?>
 
